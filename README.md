@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/NeilJoshi777/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
