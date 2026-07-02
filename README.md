@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
