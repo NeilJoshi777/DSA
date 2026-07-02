@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NeilJoshi777/DSA/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/NeilJoshi777/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/NeilJoshi777/DSA/tree/master/0217-contains-duplicate) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NeilJoshi777/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NeilJoshi777/DSA/tree/master/0258-add-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
