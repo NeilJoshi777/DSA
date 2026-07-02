@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NeilJoshi777/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/NeilJoshi777/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NeilJoshi777/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
 ## String
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NeilJoshi777/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/NeilJoshi777/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/NeilJoshi777/DSA/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/NeilJoshi777/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
