@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NeilJoshi777/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NeilJoshi777/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NeilJoshi777/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/NeilJoshi777/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NeilJoshi777/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
