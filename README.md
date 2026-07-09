@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NeilJoshi777/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NeilJoshi777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/NeilJoshi777/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/NeilJoshi777/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/NeilJoshi777/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NeilJoshi777/DSA/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NeilJoshi777/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/NeilJoshi777/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NeilJoshi777/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NeilJoshi777/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/NeilJoshi777/DSA/tree/master/0189-rotate-array) |
