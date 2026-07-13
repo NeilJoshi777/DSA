@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NeilJoshi777/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NeilJoshi777/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NeilJoshi777/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/NeilJoshi777/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NeilJoshi777/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NeilJoshi777/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NeilJoshi777/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NeilJoshi777/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/NeilJoshi777/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NeilJoshi777/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NeilJoshi777/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NeilJoshi777/DSA/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NeilJoshi777/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
