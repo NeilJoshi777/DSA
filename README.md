@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NeilJoshi777/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NeilJoshi777/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NeilJoshi777/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NeilJoshi777/DSA/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NeilJoshi777/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NeilJoshi777/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/NeilJoshi777/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NeilJoshi777/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NeilJoshi777/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NeilJoshi777/DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
