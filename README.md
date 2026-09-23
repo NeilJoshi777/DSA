@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NeilJoshi777/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
@@ -226,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/NeilJoshi777/DSA/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
