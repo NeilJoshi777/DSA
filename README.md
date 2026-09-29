@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NeilJoshi777/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/NeilJoshi777/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/NeilJoshi777/DSA/tree/master/0645-set-mismatch) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NeilJoshi777/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NeilJoshi777/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NeilJoshi777/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NeilJoshi777/DSA/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/NeilJoshi777/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Union-Find
 |  |
 | ------- |
