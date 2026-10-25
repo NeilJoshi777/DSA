@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NeilJoshi777/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NeilJoshi777/DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/NeilJoshi777/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/NeilJoshi777/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NeilJoshi777/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NeilJoshi777/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/NeilJoshi777/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NeilJoshi777/DSA/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/NeilJoshi777/DSA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NeilJoshi777/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/NeilJoshi777/DSA/tree/master/1922-count-good-numbers) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NeilJoshi777/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NeilJoshi777/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/NeilJoshi777/DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/NeilJoshi777/DSA/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
