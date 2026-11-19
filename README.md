@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NeilJoshi777/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NeilJoshi777/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NeilJoshi777/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NeilJoshi777/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -112,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NeilJoshi777/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NeilJoshi777/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/NeilJoshi777/DSA/tree/master/0645-set-mismatch) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NeilJoshi777/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/NeilJoshi777/DSA/tree/master/0410-split-array-largest-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NeilJoshi777/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
