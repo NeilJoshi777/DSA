@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NeilJoshi777/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/NeilJoshi777/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NeilJoshi777/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NeilJoshi777/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/NeilJoshi777/DSA/tree/master/0410-split-array-largest-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NeilJoshi777/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NeilJoshi777/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/NeilJoshi777/DSA/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/NeilJoshi777/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/NeilJoshi777/DSA/tree/master/0509-fibonacci-number) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/NeilJoshi777/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NeilJoshi777/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
